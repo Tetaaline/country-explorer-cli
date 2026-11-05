@@ -3,6 +3,7 @@
 import { Command } from "commander";
 import dotenv from "dotenv";
 import { registerCountryCommands } from "./commands/countries.js";
+import { registerFavoriteCommands } from "./commands/favorites.js";
 
 // Load the .env file
 dotenv.config();
@@ -17,6 +18,7 @@ program
 
 // Add the country commands
 registerCountryCommands(program);
+registerFavoriteCommands(program);
 
 // Some command examples
 program.addHelpText(
