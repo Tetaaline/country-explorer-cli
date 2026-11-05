@@ -2,8 +2,6 @@
 node_modules/
 
 # Environment variables and API keys
-.env
-.env.local
 
 # Debug logs
 npm-debug.log*
@@ -13,4 +11,4 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 node_modules
-.env
+config.bat
