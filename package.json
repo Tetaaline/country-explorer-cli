@@ -1,0 +1,21 @@
+
+{
+  "name": "country-explorer-cli",
+  "version": "1.0.0",
+  "description": "A command-line tool for exploring countries around the world",
+  "type": "module",
+  "bin": {
+    "country-explorer": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "countries",
+    "explorer"
+  ],
+  "author": "Teta and Nadine",
+  "license": "ISC"
+}
