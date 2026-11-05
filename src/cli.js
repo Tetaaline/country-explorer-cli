@@ -23,9 +23,8 @@ program.addHelpText(
   "after",
   `
 Examples:
-  $ country-explorer search Rwanda
-  $ country-explorer info Rwanda
-  $ country-explorer favorites list
+  $ country-explorer countries search Rwanda
+  $ country-explorer countries info Rwanda
   `
 );
 
