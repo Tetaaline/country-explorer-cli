@@ -1,1 +1,393 @@
-[]
+[
+  {
+    "names": {
+      "alternates": [
+        "République du Rwanda"
+      ],
+      "common": "Rwanda",
+      "native": {
+        "eng": {
+          "common": "Rwanda",
+          "official": "Republic of Rwanda"
+        },
+        "fra": {
+          "common": "Rwanda",
+          "official": "République rwandaise"
+        },
+        "kin": {
+          "common": "Rwanda",
+          "official": "Repubulika y'u Rwanda"
+        }
+      },
+      "official": "Republic of Rwanda",
+      "translations": {
+        "ara": {
+          "common": "رواندا",
+          "official": "جمهورية رواندا"
+        },
+        "bre": {
+          "common": "Rwanda",
+          "official": "Republik Rwanda"
+        },
+        "ces": {
+          "common": "Rwanda",
+          "official": "Rwandská republika"
+        },
+        "cym": {
+          "common": "Rwanda",
+          "official": "Republic of Rwanda"
+        },
+        "deu": {
+          "common": "Ruanda",
+          "official": "Republik Ruanda"
+        },
+        "est": {
+          "common": "Rwanda",
+          "official": "Rwanda Vabariik"
+        },
+        "fas": {
+          "common": "رواندا",
+          "official": "جمهوری رواندا"
+        },
+        "fin": {
+          "common": "Ruanda",
+          "official": "Ruandan tasavalta"
+        },
+        "fra": {
+          "common": "Rwanda",
+          "official": "République rwandaise"
+        },
+        "hrv": {
+          "common": "Ruanda",
+          "official": "Republika Ruandi"
+        },
+        "hun": {
+          "common": "Ruanda",
+          "official": "Ruandai Köztársaság"
+        },
+        "ind": {
+          "common": "Rwanda",
+          "official": "Republik Rwanda"
+        },
+        "ita": {
+          "common": "Ruanda",
+          "official": "Repubblica del Ruanda"
+        },
+        "jpn": {
+          "common": "ルワンダ",
+          "official": "ルワンダ共和国"
+        },
+        "kor": {
+          "common": "르완다",
+          "official": "르완다 공화국"
+        },
+        "nld": {
+          "common": "Rwanda",
+          "official": "Republiek Rwanda"
+        },
+        "pol": {
+          "common": "Rwanda",
+          "official": "Republika Rwandy"
+        },
+        "por": {
+          "common": "Ruanda",
+          "official": "República do Ruanda"
+        },
+        "rus": {
+          "common": "Руанда",
+          "official": "Республика Руанда"
+        },
+        "slk": {
+          "common": "Rwanda",
+          "official": "Rwandská republika"
+        },
+        "spa": {
+          "common": "Ruanda",
+          "official": "República de Rwanda"
+        },
+        "srp": {
+          "common": "Руанда",
+          "official": "Република Руанда"
+        },
+        "swe": {
+          "common": "Rwanda",
+          "official": "Republiken Rwanda"
+        },
+        "tur": {
+          "common": "Ruanda",
+          "official": "Ruanda Cumhuriyeti"
+        },
+        "urd": {
+          "common": "روانڈا",
+          "official": "جمہوریہ روانڈا"
+        },
+        "zho": {
+          "common": "卢旺达",
+          "official": "卢旺达共和国"
+        }
+      }
+    },
+    "codes": {
+      "alpha_2": "RW",
+      "alpha_3": "RWA",
+      "ccn3": "646",
+      "cioc": "RWA",
+      "fifa": "RWA",
+      "fips": "RW",
+      "gec": "RW"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -1.95,
+          "lng": 30.05
+        },
+        "name": "Kigali"
+      }
+    ],
+    "flag": {
+      "colors": {
+        "dominant": "#f2cd00",
+        "palette": [
+          {
+            "hex": "#f2cd00",
+            "proportion": 0.2642759250799452
+          },
+          {
+            "hex": "#00a4de",
+            "proportion": 0.4753312014618547
+          },
+          {
+            "hex": "#27653b",
+            "proportion": 0.24577432617633624
+          },
+          {
+            "hex": "#145c42",
+            "proportion": 0.005710370031978072
+          },
+          {
+            "hex": "#81b068",
+            "proportion": 0.0022841480127912287
+          },
+          {
+            "hex": "#6fb285",
+            "proportion": 0.0011420740063956144
+          },
+          {
+            "hex": "#47aa9d",
+            "proportion": 0.005253540429419826
+          },
+          {
+            "hex": "#27aaae",
+            "proportion": 0.00022841480127912289
+          }
+        ],
+        "prominent": "#00a4de",
+        "swatches": {
+          "dark_muted": "#145c42",
+          "dark_vibrant": null,
+          "light_muted": "#6fb285",
+          "light_vibrant": "#f2cd00",
+          "muted": "#47aa9d",
+          "vibrant": "#00a4de"
+        }
+      },
+      "description": "The flag of Rwanda is composed of three horizontal bands of light blue, yellow and green. The light blue band is twice the height of the other two bands and bears a yellow sun with twenty-four rays on its fly side.",
+      "emoji": "🇷🇼",
+      "html_entity": "&#127479;&#127484;",
+      "unicode": "U+1F1F7 U+1F1FC",
+      "url_png": "https://flags.restcountries.com/v5/w640/rw.png",
+      "url_svg": "https://flags.restcountries.com/v5/svg/rw.svg"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 26338,
+      "miles": 10169.2
+    },
+    "assets": [],
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "calling_codes": [
+      "250"
+    ],
+    "cars": {
+      "driving_side": "right",
+      "signs": [
+        "RWA"
+      ]
+    },
+    "classification": {
+      "dependency": false,
+      "dependency_type": "",
+      "disputed": false,
+      "iso_status": "official",
+      "sovereign": true,
+      "un_member": true,
+      "un_observer": false
+    },
+    "continents": [
+      "Africa"
+    ],
+    "coordinates": {
+      "lat": -2,
+      "lng": 30
+    },
+    "currencies": [
+      {
+        "code": "RWF",
+        "name": "Rwandan franc",
+        "symbol": "Fr"
+      }
+    ],
+    "date": {
+      "academic_year_start": {
+        "day": 1,
+        "month": 9
+      },
+      "fiscal_year_start": {
+        "corporate": {
+          "basis": "default",
+          "day": 1,
+          "month": 7
+        },
+        "government": {
+          "day": 1,
+          "month": 7
+        },
+        "personal": {
+          "day": 1,
+          "month": 1
+        }
+      },
+      "start_of_week": "monday"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Rwandan",
+        "m": "Rwandan"
+      },
+      "fra": {
+        "f": "Rwandaise",
+        "m": "Rwandais"
+      }
+    },
+    "descriptions": {
+      "long": "Rwanda is a republic with Kigali as its capital and Kinyarwanda, English, French and Swahili as official languages. The franc is the currency, and coffee, tea, minerals and tourism lead the foreign earnings of a densely settled, hilly country.",
+      "short": "Rwanda is a landlocked republic in the African Great Lakes region, bordering Uganda and the Congo."
+    },
+    "economy": {
+      "gini_coefficient": {
+        "2005": 52,
+        "2010": 47.2,
+        "2013": 45.1,
+        "2016": 43.7,
+        "2023": 39.4
+      }
+    },
+    "government_type": "Unitary semi-presidential republic under an authoritarian dictatorship",
+    "landlocked": true,
+    "languages": [
+      {
+        "bcp47": "en",
+        "iso639_1": "en",
+        "iso639_2b": "eng",
+        "iso639_2t": "eng",
+        "iso639_3": "eng",
+        "name": "English",
+        "native_name": "English"
+      },
+      {
+        "bcp47": "fr",
+        "iso639_1": "fr",
+        "iso639_2b": "fre",
+        "iso639_2t": "fra",
+        "iso639_3": "fra",
+        "name": "French",
+        "native_name": "français"
+      },
+      {
+        "bcp47": "rw",
+        "iso639_1": "rw",
+        "iso639_2b": "kin",
+        "iso639_2t": "kin",
+        "iso639_3": "kin",
+        "name": "Kinyarwanda",
+        "native_name": "Ikinyarwanda"
+      }
+    ],
+    "leaders": [
+      {
+        "message": "data.leaders is only available on paid plans. Go to https://restcountries.com/plans to make updates to your account.",
+        "sample": "https://files-03.restcountries.com/countries.00/sample.leaders.json"
+      }
+    ],
+    "links": {
+      "google_maps": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
+      "official": "https://www.gov.rw",
+      "open_street_maps": "https://www.openstreetmap.org/relation/171496",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rwanda"
+    },
+    "memberships": {
+      "african_union": true,
+      "arab_league": false,
+      "asean": false,
+      "brics": false,
+      "commonwealth": true,
+      "eu": false,
+      "eurozone": false,
+      "g20": false,
+      "g7": false,
+      "nato": false,
+      "oecd": false,
+      "opec": false,
+      "schengen": false,
+      "un": true
+    },
+    "number_format": {
+      "decimal_separator": ",",
+      "thousands_separator": "."
+    },
+    "parent": {
+      "alpha_2": "",
+      "alpha_3": ""
+    },
+    "population": 14418145,
+    "postal_code": {
+      "format": "",
+      "regex": ""
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "tlds": [
+      ".rw"
+    ],
+    "units": {
+      "measurement_system": "metric",
+      "temperature_scale": "Celsius"
+    },
+    "uuid": "f4d7dedc-416a-4156-9d31-2ed676d33abc",
+    "_match": [
+      {
+        "path": "names.common",
+        "value": "Rwanda"
+      }
+    ],
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  }
+]
