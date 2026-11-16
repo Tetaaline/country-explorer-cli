@@ -2,13 +2,15 @@
 
 import { Command } from "commander";
 import dotenv from "dotenv";
+
 import { registerCountryCommands } from "./commands/countries.js";
 import { registerFavoriteCommands } from "./commands/favorites.js";
+import { runMenu } from "./utils/menu.js";
 
-// Load the .env file
+// Load environment variables.
 dotenv.config();
 
-// Set up our CLI
+// Set up our CLI.
 const program = new Command();
 
 program
@@ -16,19 +18,26 @@ program
   .description("A CLI tool for exploring countries around the world")
   .version("1.0.0");
 
-// Add the country commands
+// Register country and favourite commands.
 registerCountryCommands(program);
 registerFavoriteCommands(program);
 
-// Some command examples
+// Add command examples.
 program.addHelpText(
   "after",
   `
 Examples:
   $ country-explorer countries search Rwanda
   $ country-explorer countries info Rwanda
-  `
+  $ country-explorer favorites add Rwanda
+  $ country-explorer favorites list
+  $ country-explorer favorites remove Rwanda
+  `,
 );
 
-// Read what the user enters
-program.parse(process.argv);
+// Decide whether to show the interactive menu or run a command.
+if (process.argv.length === 2) {
+  await runMenu();
+} else {
+  program.parse(process.argv);
+}
